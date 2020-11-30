@@ -1,7 +1,5 @@
-x = "Hello world"
-
 usr_in = input("please enter your name")
 
 usr_age = int(input("please enter your age:"))
 
-print (usr_in , usr_age , 'and' , x)
+print ('User_name: ' ,usr_in ," ", 'User_age: ', usr_age )
