@@ -1,12 +1,7 @@
 just a demo file
-# Header
-Hello
-## Subheader
+# Hello
+## Adding some description for better understanding.
 
-Adding some description for better understanding.
+# Intro to PLSQL
 
-# Header
-Intro to PLSQL
-
-## subheader
-Tune in
+## Tune in
